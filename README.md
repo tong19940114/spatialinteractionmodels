@@ -1,1 +1,1 @@
-# spatialinteractionmodels
+# spatial interaction models
